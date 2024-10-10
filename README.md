@@ -9,36 +9,26 @@ I'm Victor!
 ## 🚀 Languages and Technologies
 
 ### 💻 Application Development
-- ![Java](./icon/java.png) Java  
-- ![Python](./icon/python.png) Python  
+![Java](./icon/java.png)  ![Python](./icon/python.png)
 
 ### 🌐 Web Development
-- ![PHP](./icon/php.png) PHP  
-- ![HTML](./icon/html.png) HTML  
-- ![CSS](./icon/css.png) CSS  
-- ![Laravel](./icon/laravel.png) Laravel  
-- ![Flask](./icon/flask.png) Flask  
-- ![NGINX](./icon/nginx.png) NGINX  
-- ![Apache](./icon/apache.png) Apache  
+![PHP](./icon/php.png) ![HTML](./icon/html.png) ![CSS](./icon/css.png)  
+![Laravel](./icon/laravel.png) ![Flask](./icon/flask.png)  
+![NGINX](./icon/nginx.png) ![Apache](./icon/apache.png)
 
 ### 🗄️ Databases
-- ![SQLite](./icon/sqlite.png) SQLite  
-- ![PostgreSQL](./icon/psql.png) PostgreSQL  
+![SQLite](./icon/sqlite.png) ![PostgreSQL](./icon/psql.png)
 
 ### 🛠️ Scripting and Tools
-- ![Bash](./icon/bash.png) Bash  
-- ![Git](./icon/git.png) Git  
-- ![Linux](./icon/linux.png) Linux (Fedora, EndeavourOS)  
-- ![Windows](./icon/windows.png) Windows  
+![Bash](./icon/bash.png) ![Git](./icon/git.png)  
+![Linux](./icon/linux.png) ![Windows](./icon/windows.png)
 
 ---
 
 ## 🛠️ IDEs & Tools
-- ![IntelliJ IDEA](./icon/idea.png) IntelliJ IDEA  
-- ![Eclipse](./icon/eclipse.png) Eclipse  
-- ![VS Code](./icon/vscode.png) Visual Studio Code  
-- ![PHPStorm](./icon/phpstorm.png) PHPStorm  
-- ![PyCharm](./icon/pycharm.png) PyCharm  
+![IntelliJ IDEA](./icon/idea.png) ![Eclipse](./icon/eclipse.png)  
+![VS Code](./icon/vscode.png) ![PHPStorm](./icon/phpstorm.png)  
+![PyCharm](./icon/pycharm.png)
 
 ---
 
