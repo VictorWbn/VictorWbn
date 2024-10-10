@@ -11,7 +11,6 @@ I'm Victor!
 ### 💻 Application Development
 - ![Java](./icon/java.png) Java  
 - ![Python](./icon/python.png) Python  
-- ![COBOL](./icon/cobol.png) COBOL
 
 ### 🌐 Web Development
 - ![PHP](./icon/php.png) PHP  
