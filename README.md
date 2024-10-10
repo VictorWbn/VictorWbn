@@ -2,7 +2,7 @@
 
 I'm Victor!  
 💻 I'm a **Backend Developer**  
-📚 Currently a student at **IUT de Lens**
+📚 Currently a student at **IUT de Lens**, **FRANCE**
 
 ---
 
