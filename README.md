@@ -4,7 +4,7 @@ I'm Victor!
 💻 I'm a **Backend Developer**  
 📚 Currently a student at **IUT de Lens**, **FRANCE**
 
----
+
 
 ## 🚀 Languages and Technologies
 
@@ -24,19 +24,19 @@ I'm Victor!
 <img src="./icon/fedora.png" alt="Fedora" width="32" height="32"/> <img src="./icon/endeavouros.png" alt="EndeavourOS" width="32" height="32"/>  
 <img src="./icon/windows.png" alt="Windows" width="32" height="32"/>
 
----
+
 
 ## 🛠️ IDEs & Tools
 <img src="./icon/intellijidea.png" alt="IntelliJ IDEA" width="32" height="32"/> <img src="./icon/eclipse.png" alt="Eclipse" width="32" height="32"/>  
 <img src="./icon/vscode.png" alt="VS Code" width="32" height="32"/> <img src="./icon/phpstorm.png" alt="PHPStorm" width="32" height="32"/>  
 <img src="./icon/pycharm.png" alt="PyCharm" width="32" height="32"/>
 
----
+
 
 ## 📊 My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorWbn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
----
+
 
 ### ✨ Check out my repositories for more!
