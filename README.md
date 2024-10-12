@@ -10,7 +10,7 @@ I'm Victor!
 
 ### 💻 Application Development
 <img src="./icon/java.png" alt="Java" width="32" height="32"/> <img src="./icon/python.png" alt="Python" width="32" height="32"/>
-<img src="./icon/cobol.png" alt="Cobol" width="32" height="32"/>
+<img src="./icon/cobol.png" alt="Cobol" width="32" height="32"/> <img src="./icon/csharp.png" alt="csharp" width="32" height="32"/>
 
 ### 🌐 Web Development
 <img src="./icon/php.png" alt="PHP" width="32" height="32"/> <img src="./icon/html.png" alt="HTML" width="32" height="32"/> <img src="./icon/css.png" alt="CSS" width="32" height="32"/>  
