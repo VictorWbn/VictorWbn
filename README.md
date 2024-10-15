@@ -24,7 +24,7 @@ I'm Victor!
 <img src="./icon/windows.png" alt="Windows" width="32" height="32"/>
 
 ## 🛠️ IDEs & Tools
-<img src="./icon/eclipse.png" alt="Eclipse" width="32" height="32"/><img src="./icon/VScode.png" alt="VS Code" width="32" height="32"/> <br>
+<img src="./icon/eclipse.png" alt="Eclipse" width="32" height="32"/><img src="./icon/vscode.png" alt="VS Code" width="32" height="32"/> <br>
 <img src="./icon/intellijidea.png" alt="IntelliJ IDEA" width="32" height="32"/><img src="./icon/phpstorm.png" alt="PHPStorm" width="32" height="32"/> <br>
 <img src="./icon/pycharm.png" alt="PyCharm" width="32" height="32"/>
 
