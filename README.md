@@ -4,8 +4,6 @@ I'm Victor!
 💻 I'm a **Backend Developer**  
 📚 Currently a student at **IUT de Lens**, **FRANCE**
 
-
-
 ## 🚀 Languages and Technologies
 
 ### 💻 Application Development
@@ -30,8 +28,6 @@ I'm Victor!
 <img src="./icon/eclipse.png" alt="Eclipse" width="32" height="32"/> <img src="./icon/intellijidea.png" alt="IntelliJ IDEA" width="32" height="32"/> 
 <img src="./icon/vscode.png" alt="VS Code" width="32" height="32"/> <img src="./icon/phpstorm.png" alt="PHPStorm" width="32" height="32"/>  
 <img src="./icon/pycharm.png" alt="PyCharm" width="32" height="32"/>
-
-
 
 ## 📊 My GitHub Stats
 
