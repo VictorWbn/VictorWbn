@@ -13,7 +13,8 @@ I'm Victor!
 <img src="./icon/cobol.png" alt="Cobol" width="32" height="32"/> <img src="./icon/csharp.png" alt="csharp" width="32" height="32"/>
 
 ### 🌐 Web Development
-<img src="./icon/php.png" alt="PHP" width="32" height="32"/> <img src="./icon/html.png" alt="HTML" width="32" height="32"/> <img src="./icon/css.png" alt="CSS" width="32" height="32"/>  
+<img src="./icon/html.png" alt="HTML" width="32" height="32"/> <img src="./icon/css.png" alt="CSS" width="32" height="32"/> 
+<img src="./icon/php.png" alt="PHP" width="32" height="32"/>
 <img src="./icon/laravel.png" alt="Laravel" width="32" height="32"/> <img src="./icon/flask.png" alt="Flask" width="32" height="32"/>  
 <img src="./icon/nginx.png" alt="NGINX" width="32" height="32"/> <img src="./icon/apache.png" alt="Apache" width="32" height="32"/>
 
@@ -25,10 +26,8 @@ I'm Victor!
 <img src="./icon/fedora.png" alt="Fedora" width="32" height="32"/> <img src="./icon/endeavouros.png" alt="EndeavourOS" width="32" height="32"/>  
 <img src="./icon/windows.png" alt="Windows" width="32" height="32"/>
 
-
-
 ## 🛠️ IDEs & Tools
-<img src="./icon/intellijidea.png" alt="IntelliJ IDEA" width="32" height="32"/> <img src="./icon/eclipse.png" alt="Eclipse" width="32" height="32"/>  
+<img src="./icon/eclipse.png" alt="Eclipse" width="32" height="32"/> <img src="./icon/intellijidea.png" alt="IntelliJ IDEA" width="32" height="32"/> 
 <img src="./icon/vscode.png" alt="VS Code" width="32" height="32"/> <img src="./icon/phpstorm.png" alt="PHPStorm" width="32" height="32"/>  
 <img src="./icon/pycharm.png" alt="PyCharm" width="32" height="32"/>
 
