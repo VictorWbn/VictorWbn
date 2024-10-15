@@ -36,8 +36,9 @@ I'm Victor!
 
 ## 📊 My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorWbn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorWbn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+<br/>
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=VictorWbn&theme=dark&hide_border=false)
 
 
-
-### ✨ Check out my repositories for more!
+### ✨ Check out my repositories / Portfolio for more!
