@@ -4,7 +4,7 @@ I'm Victor!
 💻 I'm a **Backend Developer**  
 📚 Currently a student at **IUT de Lens**, **FRANCE**, Year 2
 
-## 🚀 Languages and Technologies
+## 🚀 Languages & Technologies
 
 ### 💻 Application Development
 <img src="./icon/java.png" alt="Java" width="32" height="32"/><img src="./icon/python.png" alt="Python" width="32" height="32"/> <br>
@@ -18,12 +18,12 @@ I'm Victor!
 ### 🗄️ Databases
 <img src="./icon/psql.png" alt="PostgreSQL" width="32" height="32"/><img src="./icon/sqlite.png" alt="SQLite" width="32" height="32"/>
 
-### 🛠️ Scripting and Tools
+### 🛠️ Scripting & OS
 <img src="./icon/bash.png" alt="Bash" width="32" height="32"/><img src="./icon/git.png" alt="Git" width="32" height="32"/> <br>
 <img src="./icon/fedora.png" alt="Fedora" width="32" height="32"/><img src="./icon/endeavouros.png" alt="EndeavourOS" width="32" height="32"/> <br>
 <img src="./icon/windows.png" alt="Windows" width="32" height="32"/>
 
-## 🛠️ IDEs & Tools
+## 🛠️ IDEs 
 <img src="./icon/eclipse.png" alt="Eclipse" width="32" height="32"/><img src="./icon/vscode.png" alt="VS Code" width="32" height="32"/> <br>
 <img src="./icon/intellijidea.png" alt="IntelliJ IDEA" width="32" height="32"/><img src="./icon/phpstorm.png" alt="PHPStorm" width="32" height="32"/> <br>
 <img src="./icon/pycharm.png" alt="PyCharm" width="32" height="32"/>
