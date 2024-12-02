@@ -36,3 +36,5 @@ I'm Victor!
 
 
 ### ✨ Check out my repositories / Portfolio for more!
+
+[![](https://visitcount.itsvg.in/api?id=VictorWbn&icon=0&color=0)](https://visitcount.itsvg.in)
