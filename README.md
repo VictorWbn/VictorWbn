@@ -8,7 +8,7 @@ I'm Victor!
 
 ### 💻 Application Development
 <img src="./icon/java.png" alt="Java" width="32" height="32"/><img src="./icon/python.png" alt="Python" width="32" height="32"/> <br>
-<img src="./icon/cobol.png" alt="Cobol" width="32" height="32"/><img src="./icon/csharp.png" alt="Csharp" width="32" height="32"/>
+<img src="./icon/csharp.png" alt="Csharp" width="32" height="32"/><img src="./icon/cobol.png" alt="Cobol" width="32" height="32"/>
 
 ### 🌐 Web Development
 <img src="./icon/html.png" alt="HTML" width="32" height="32"/><img src="./icon/css.png" alt="CSS" width="32" height="32"/><img src="./icon/javascript.png" alt="JavaScript" width="32" height="32"/> <br>
@@ -21,7 +21,7 @@ I'm Victor!
 ### 🛠️ Scripting & OS
 <img src="./icon/bash.png" alt="Bash" width="32" height="32"/><img src="./icon/git.png" alt="Git" width="32" height="32"/> <br>
 <img src="./icon/fedora.png" alt="Fedora" width="32" height="32"/><img src="./icon/endeavouros.png" alt="EndeavourOS" width="32" height="32"/> <br>
-<img src="./icon/windows.png" alt="Windows" width="32" height="32"/>
+<img src="./icon/windows.png" alt="Windows" width="32" height="32"/><img src="./icon/rpios.png" alt="Raspberry Pi OS" width="32" height="32"/>
 
 ## 🛠️ IDEs 
 <img src="./icon/eclipse.png" alt="Eclipse" width="32" height="32"/><img src="./icon/vscode.png" alt="VS Code" width="32" height="32"/> <br>
