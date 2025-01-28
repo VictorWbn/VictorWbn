@@ -8,15 +8,18 @@ I'm Victor!
 
 ### 💻 Application Development
 <img src="./icon/java.png" alt="Java" width="48" height="48"/><img src="./icon/python.png" alt="Python" width="48" height="48"/> <br>
-<img src="./icon/csharp.png" alt="Csharp" width="48" height="48"/><img src="./icon/cobol.png" alt="Cobol" width="48" height="48"/>
+<img src="./icon/csharp.png" alt="Csharp" width="48" height="48"/><img src="./icon/cobol.png" alt="Cobol" width="48" height="48"/> <br>
+<img src="./icon/kotlin.png" alt="Kotlin" width="48" height="48"/>
 
 ### 🌐 Web Development
-<img src="./icon/html.png" alt="HTML" width="48" height="48"/><img src="./icon/css.png" alt="CSS" width="48" height="48"/><img src="./icon/javascript.png" alt="JavaScript" width="48" height="48"/> <br>
+<img src="./icon/typescript.png" alt="TypeScript" width="48" height="48"/><img src="./icon/javascript.png" alt="JavaScript" width="48" height="48"/> <br>
 <img src="./icon/php.png" alt="PHP" width="48" height="48"/><img src="./icon/laravel.png" alt="Laravel" width="48" height="48"/><img src="./icon/flask.png" alt="Flask" width="48" height="48"/> <br>
-<img src="./icon/nginx.png" alt="NGINX" width="48" height="48"/> <img src="./icon/apache.png" alt="Apache" width="48" height="48"/>
+<img src="./icon/nginx.png" alt="NGINX" width="48" height="48"/> <img src="./icon/apache.png" alt="Apache" width="48" height="48"/> <br>
+<img src="./icon/html.png" alt="HTML" width="48" height="48"/><img src="./icon/css.png" alt="CSS" width="48" height="48"/>
 
 ### 🗄️ Databases
-<img src="./icon/psql.png" alt="PostgreSQL" width="48" height="48"/><img src="./icon/sqlite.png" alt="SQLite" width="48" height="48"/>
+<img src="./icon/psql.png" alt="PostgreSQL" width="48" height="48"/><img src="./icon/sqlite.png" alt="SQLite" width="48" height="48"/> <br>
+<img src="./icon/jdbcderby.png" alt="JDBC Derby" width="48" height="48"/>
 
 ### 🛠️ Scripting & OS
 <img src="./icon/bash.png" alt="Bash" width="48" height="48"/><img src="./icon/git.png" alt="Git" width="48" height="48"/> <br>
@@ -26,7 +29,8 @@ I'm Victor!
 ## 🛠️ IDEs 
 <img src="./icon/eclipse.png" alt="Eclipse" width="48" height="48"/><img src="./icon/vscode.png" alt="VS Code" width="48" height="48"/> <br>
 <img src="./icon/intellijidea.png" alt="IntelliJ IDEA" width="48" height="48"/><img src="./icon/phpstorm.png" alt="PHPStorm" width="48" height="48"/> <br>
-<img src="./icon/pycharm.png" alt="PyCharm" width="48" height="48"/>
+<img src="./icon/pycharm.png" alt="PyCharm" width="48" height="48"/><img src="./icon/webstorm.png" alt="WebStorm" width="48" height="48"/> <br>
+<img src="./icon/androidstudio.png" alt="Android Studio" width="48" height="48"/>
 
 ## 📊 My GitHub Stats
 
