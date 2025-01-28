@@ -18,8 +18,7 @@ I'm Victor!
 <img src="./icon/html.png" alt="HTML" width="48" height="48"/><img src="./icon/css.png" alt="CSS" width="48" height="48"/>
 
 ### 🗄️ Databases
-<img src="./icon/psql.png" alt="PostgreSQL" width="48" height="48"/><img src="./icon/sqlite.png" alt="SQLite" width="48" height="48"/> <br>
-<img src="./icon/jdbcderby.png" alt="JDBC Derby" width="48" height="48"/>
+<img src="./icon/psql.png" alt="PostgreSQL" width="48" height="48"/><img src="./icon/sqlite.png" alt="SQLite" width="48" height="48"/><img src="./icon/jdbcderby.png" alt="JDBC Derby" width="48" height="48"/>
 
 ### 🛠️ Scripting & OS
 <img src="./icon/bash.png" alt="Bash" width="48" height="48"/><img src="./icon/git.png" alt="Git" width="48" height="48"/> <br>
@@ -27,10 +26,8 @@ I'm Victor!
 <img src="./icon/windows.png" alt="Windows" width="48" height="48"/><img src="./icon/rpios.png" alt="Raspberry Pi OS" width="48" height="48"/>
 
 ## 🛠️ IDEs 
-<img src="./icon/eclipse.png" alt="Eclipse" width="48" height="48"/><img src="./icon/vscode.png" alt="VS Code" width="48" height="48"/> <br>
-<img src="./icon/intellijidea.png" alt="IntelliJ IDEA" width="48" height="48"/><img src="./icon/phpstorm.png" alt="PHPStorm" width="48" height="48"/> <br>
-<img src="./icon/pycharm.png" alt="PyCharm" width="48" height="48"/><img src="./icon/webstorm.png" alt="WebStorm" width="48" height="48"/> <br>
-<img src="./icon/androidstudio.png" alt="Android Studio" width="48" height="48"/>
+<img src="./icon/eclipse.png" alt="Eclipse" width="48" height="48"/><img src="./icon/vscode.png" alt="VS Code" width="48" height="48"/><img src="./icon/androidstudio.png" alt="Android Studio" width="48" height="48"/> <br>
+<img src="./icon/intellijidea.png" alt="IntelliJ IDEA" width="48" height="48"/><img src="./icon/phpstorm.png" alt="PHPStorm" width="48" height="48"/><img src="./icon/pycharm.png" alt="PyCharm" width="48" height="48"/><img src="./icon/webstorm.png" alt="WebStorm" width="48" height="48"/> <br>
 
 ## 📊 My GitHub Stats
 
