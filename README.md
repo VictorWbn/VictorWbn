@@ -1,7 +1,7 @@
 # 👋 Hello there! (Obi-Wan Kenobi voice)
 
 I'm Victor!  
-💻 I'm a **Backend Developer**  
+💻 I'm a **Junior Developer**  
 📚 Currently a student at **IUT de Lens**, **FRANCE**, Year 2
 
 ## 🚀 Languages & Technologies
