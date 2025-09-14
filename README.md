@@ -2,7 +2,7 @@
 
 I'm Victor!  
 💻 I'm a **Junior Developer**  
-📚 Currently a student at **IUT de Lens**, **FRANCE**, Year 2
+📚 Currently a student at **IUT de Lens**, **FRANCE**, Year 3
 
 ## 🚀 Languages & Technologies
 
