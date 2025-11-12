@@ -3,6 +3,8 @@
 I'm Victor!  
 💻 I'm a **Junior Developer**  
 📚 Currently a student at **IUT de Lens**, **FRANCE**, Year 3
+Raspberry Pi & Libre Computer board Enjoyer
+<img src="/icon/rasbperry.jpg" alt="Raspberry Pi" width="48" height="48"/><img src="/icon/librecomputer.png" alt="Libre Computer" width="48" height="48"/>
 
 ## 🚀 Languages & Technologies
 
@@ -12,10 +14,15 @@ I'm Victor!
 <img src="./icon/kotlin.png" alt="Kotlin" width="48" height="48"/>
 
 ### 🌐 Web Development
-<img src="./icon/typescript.png" alt="TypeScript" width="48" height="48"/><img src="./icon/javascript.png" alt="JavaScript" width="48" height="48"/> <br>
+<img src="./icon/typescript.png" alt="TypeScript" width="48" height="48"/><img src="./icon/javascript.png" alt="JavaScript" width="48" height="48"/><img src="./icon/angular.png" alt="Angular" width="48" height="48"/> <br>
 <img src="./icon/php.png" alt="PHP" width="48" height="48"/><img src="./icon/laravel.png" alt="Laravel" width="48" height="48"/><img src="./icon/flask.png" alt="Flask" width="48" height="48"/> <br>
 <img src="./icon/nginx.png" alt="NGINX" width="48" height="48"/> <img src="./icon/apache.png" alt="Apache" width="48" height="48"/> <br>
 <img src="./icon/html.png" alt="HTML" width="48" height="48"/><img src="./icon/css.png" alt="CSS" width="48" height="48"/>
+
+### 🖥️ Virtualisation | Deployment
+<img src="./icon/docker.png" alt="Docker" width="48" height="48"/><img src="./icon/podman.png" alt="podman" width="48" height="48"/> <br>
+<img src="./icon/nomad.png" alt="Nomad" width="48" height="48"/> <br>
+<img src="./icon/traefik.png" alt="Traefik" width="48" height="48"/>
 
 ### 🗄️ Databases
 <img src="./icon/psql.png" alt="PostgreSQL" width="48" height="48"/><img src="./icon/sqlite.png" alt="SQLite" width="48" height="48"/><img src="./icon/jdbcderby.png" alt="JDBC Derby" width="48" height="48"/>
