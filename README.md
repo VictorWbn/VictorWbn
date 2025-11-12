@@ -27,7 +27,7 @@ Raspberry Pi & Libre Computer board Enjoyer
 <img src="./icon/traefik.png" alt="Traefik" width="48" height="48"/>
 
 ### 🗄️ Databases
-<img src="./icon/psql.png" alt="PostgreSQL" width="48" height="48"/><img src="./icon/sqlite.png" alt="SQLite" width="48" height="48"/><img src="./icon/jdbcderby.png" alt="JDBC Derby" width="48" height="48"/>
+<img src="./icon/psql.png" alt="PostgreSQL" width="48" height="48"/><img src="./icon/sqlite.png" alt="SQLite" width="48" height="48"/><img src="./icon/jdbcderby.png" alt="JDBC Derby" width="48" height="48"/><img src="./icon/mongodb.png" alt="MongoDB" width="48" height="48"/>
 
 ### 🛠️ Scripting & OS
 <img src="./icon/bash.png" alt="Bash" width="48" height="48"/><img src="./icon/git.png" alt="Git" width="48" height="48"/> <br>
