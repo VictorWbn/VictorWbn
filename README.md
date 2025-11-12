@@ -2,7 +2,7 @@
 
 I'm Victor!  
 💻 I'm a **Junior Developer**  
-📚 Currently a student at **IUT de Lens**, **FRANCE**, Year 3
+📚 Currently a student at **IUT de Lens**, **FRANCE**, Year 3 <br>
 Raspberry Pi & Libre Computer board Enjoyer
 <br>
 <img src="/icon/raspberry.png" alt="Raspberry Pi" width="48" height="48" style="border-radius: 50%"/>
